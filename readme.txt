@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is  First sinm  simple scroll to top plugin. When visitor scroll bottom then show a simple scroll up arrow button and click to get top to the page.
+This is  First sinm  simple scroll to top plugin. When visitor scroll bottom then show a simple scroll up arrow button and click to get top to the page.SINM Scroll To Top Demo Here http://wordcorepress.com/plugins/sinm-scroll-to-top/
 
 == Installation ==
 
