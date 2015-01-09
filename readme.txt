@@ -1,5 +1,5 @@
 === SINM Scroll To Top ===
-Tags: scroll up, scroll, jquery scroll to top, jquery plugin.
+Tags: wordpress plugin,plugin wordpress, best wordpress plugins,wordpress scroll up plugin, jquery scroll up,jquery scroll up plugin, scroll, jquery scroll to top, jquery plugin.
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
@@ -16,6 +16,8 @@ This is  First sinm  simple scroll to top plugin. When visitor scroll bottom the
 
 This section describes how to install the plugin and get it working.
 
+Demo Here that how to use- http://wordcorepress.com/plugins/sinm-scroll-to-top/
+
 e.g.
 
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
@@ -28,14 +30,14 @@ For basic usage:
 
 
 == Frequently Asked Questions ==
-
+<pre>You can ask any kind of question about my plugin.</pre>
 
 == Screenshots ==
 
 
 
 == Changelog ==
-
+This is nice plugin.
 = 1.0 =
 * Initial Release
 
